@@ -92,7 +92,7 @@ The name is used when writing to and reading from the servo.
 Be sure to use the correct data type for the target value.
 
 
-In the <StartupParameters> tag an object is combined with a value to form an <Item>
+In the StartupParameters tag an object is combined with a value to form an Item:
 
 ```
 <Item>
